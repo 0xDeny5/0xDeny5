@@ -33,7 +33,11 @@ TypeScript on Node.js at the core, Rust where it counts, React when it needs a f
 </p>
 
 <p align="center">
-  <img src="./assets/ledger.svg" alt="Animated ledger: deposit, swap, payout, HSM signature and settlement, linked into one chain" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/grid-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/grid-light.svg" />
+    <img src="./assets/grid-dark.svg" alt="Abstract animated grid: two light trails routing across a contribution-style grid" width="100%" />
+  </picture>
 </p>
 
 <p align="center">
