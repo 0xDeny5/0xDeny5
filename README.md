@@ -32,14 +32,8 @@ TypeScript on Node.js at the core, Rust where it counts, React when it needs a f
   <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,react,rust,solidity,postgres,redis,kafka,rabbitmq,mongodb,graphql,aws,terraform,docker,githubactions,gitlab,linux,vite,prisma&perline=10" alt="TypeScript, Node.js, NestJS, React, Rust, Solidity, PostgreSQL, Redis, Kafka, RabbitMQ, MongoDB, GraphQL, AWS, Terraform, Docker, GitHub Actions, GitLab, Linux, Vite, Prisma" />
 </p>
 
-<h3 align="center">Contributions, eaten one block at a time</h3>
-
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xDeny5/0xDeny5/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xDeny5/0xDeny5/output/snake.svg" />
-    <img alt="Contribution graph eaten by a snake" src="https://raw.githubusercontent.com/0xDeny5/0xDeny5/output/snake.svg" />
-  </picture>
+  <img src="./assets/ledger.svg" alt="Animated ledger: deposit, swap, payout, HSM signature and settlement, linked into one chain" width="100%" />
 </p>
 
 <p align="center">
